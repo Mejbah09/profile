@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mejbah09/your-repo/main/300263a5-cbed-4110-9ebf-80541119a096.webp" alt="Banner Image" style="width:100%; height:auto;"/>
+  <img src="https://raw.githubusercontent.com/Mejbah09/profile/main/300263a5-cbed-4110-9ebf-80541119a096.webp" alt="Banner Image" style="width:100%; height:auto;"/>
 
   # Mejbah Uddin Bhuiyan
   
@@ -68,4 +68,5 @@ A special thanks to everyone who has been a part of my journey—professors, men
 
 ## 📝 License
 
-This repository is 
+This repository is licensed under the MIT License.
+
